@@ -1,0 +1,3 @@
+numpy:
+
+ndim= dimention of a array in numpy. LIke 1d,2d,3d
